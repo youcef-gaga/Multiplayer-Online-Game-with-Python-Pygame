@@ -1,5 +1,7 @@
 # Multiplayer-Online-Game-with-Python-Pygame
+
 This project is a two-player game built using Python and Pygame that allows players to connect and play online or locally. Spectators can also view the game in real-time. The game is still in development and some bugs remain, with planned improvements.
+
 ![Screenshot of App](image_1.png)
 ![Screenshot of App](image_2.png)
 ---
